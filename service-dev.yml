@@ -4,7 +4,7 @@ server:
 #给微服务设置一个名字
 spring:
   application:
-    name: service
+    name: userservice
   datasource:
     url: jdbc:mysql://localhost/mysql
     username: root
